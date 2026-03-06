@@ -1,11 +1,8 @@
-# Computer Vision–Based Security System for Self-Service Machines
+# Computer Vision–Based Security System for Banking Self-Service Machines
 
-This repository contains the complete work developed as part of a **Master’s Thesis in Software Engineering**  
-**“Visão Computacional para Soluções de Segurança Adicional em Máquinas de Autoatendimento”**  
-by **Vasco Miguel Raimão Maria**, submitted to the **Faculdade de Ciências da Universidade de Lisboa**.
+This repository contains the main components of the work developed as part of a **Master’s Thesis in Software Engineering** focused on a computer vision–based security system for the banking sector, specifically targeting self-service machines such as ATMs and VTMs.
 
-This work was developed during a professional internship at **INM – Innovation Makers**, a technology company, and focuses on the design, implementation, and evaluation of an additional computer vision–based security layer for the banking sector, specifically targeting self-service machines such as ATMs and VTMs.
-
+The project was developed during a professional internship at INM – Innovation Makers and explores the design and implementation of an additional computer vision–based security layer for banking self-service infrastructure.
 
 ---
 
