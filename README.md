@@ -15,7 +15,7 @@ Self-service machines are widely used and play a critical role in modern service
 
 This project addresses these challenges by introducing a **computer vision–based security system** that operates as an **independent and complementary security layer**, without requiring modifications to the core software of the self-service machine.
 
-The system analyzes image frames captured by the machine’s camera and detects potentially dangerous situations in real time.
+The system analyzes image frames captured by the machine’s camera and detects potentially dangerous situations in **real time**.
 
 ---
 
